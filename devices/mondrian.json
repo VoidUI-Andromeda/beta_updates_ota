@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "johnmart19",
+			"oem": "Poco",
+			"device": "Redmi F5 Pro / Redmi K60",
+			"filename": "VoidUI-Andromeda-mondrian-13.0-20230730-2339-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/voidui/files/mondrian/Beta/VoidUI-Andromeda-mondrian-13.0-20230730-2339-OFFICIAL.zip/download",
+			"timestamp": 1690760359,
+			"md5": "fc50a8fbe02a7c1b62c4f4ecabdf5e15",
+			"sha256": "c6842c98c0c8d35ee56afbda20983dd6e8eb55e3368710948f08b7b38ab56316",
+			"size": 2625451926,
+			"version": Andromeda,
+			"buildtype": "Initial Builds",
+			"forum": "https://t.me/VoidUI_PocoF5Pro",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/mondrian/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.patreon.com/johnmart19",
+			"telegram": "https://t.me/VoidUI_PocoF5Pro/",
+			"dt": "https://github.com/VoidUI-Devices/device_xiaomi_mondrian",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
